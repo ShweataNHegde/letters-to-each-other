@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Letters to Each Other"
 
 [params]
   displayName = "EN"
@@ -14,13 +14,13 @@ title = "Blowfish"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
+ [params.author]
+   name = "Arushi and Shweata"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
+   image = "img/IMAGE.jpeg"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+   headline = "Just two friends writing to each other"
+   bio = "We both are Young India Fellows of 2025 at Ashoka University. Arushi is an architect and Shweata is a science communicator."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

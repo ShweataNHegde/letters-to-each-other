@@ -8,8 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>404 Page not found &middot; Blowfish</title>
-  <meta name="title" content="404 Page not found &middot; Blowfish" />
+  <title>404 Page not found &middot; Letters to Each Other</title>
+  <meta name="title" content="404 Page not found &middot; Letters to Each Other" />
   
   
   
@@ -65,7 +65,7 @@
   
   
   <meta property="og:url" content="//localhost:1313/404.html">
-  <meta property="og:site_name" content="Blowfish">
+  <meta property="og:site_name" content="Letters to Each Other">
   <meta property="og:title" content="404 Page not found">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
@@ -79,6 +79,7 @@
 
   
   
+  <meta name="author" content="Arushi and Shweata" />
   
   
   
@@ -133,7 +134,7 @@
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">Blowfish</a>
+            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">Letters to Each Other</a>
             
 
         </nav>
@@ -311,6 +312,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   
   <div class="relative flex flex-col grow">
@@ -337,7 +348,7 @@
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
       2025
-      
+      Arushi and Shweata
     </p>
     
 

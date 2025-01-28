@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Letters on Blowfish</title>
+    <title>Letters on Letters to Each Other</title>
     <link>//localhost:1313/tags/letters/</link>
-    <description>Recent content in Letters on Blowfish</description>
+    <description>Recent content in Letters on Letters to Each Other</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/letters/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Arushi and Shweata</copyright>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/letters/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SNH Letter #01</title>
       <link>//localhost:1313/posts/2025-01-27/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/posts/2025-01-27/</guid>
       <description>Thank You, Arushi</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/2025-01-27/featured-01.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/2025-01-27/featured.png" />
     </item>
     
   </channel>
