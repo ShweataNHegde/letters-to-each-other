@@ -31,10 +31,10 @@
     
     <item>
       <title>To-Do List</title>
-      <link>//localhost:1313/posts/to-do-list/</link>
+      <link>//localhost:1313/to-do-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/to-do-list/</guid>
+      <guid>//localhost:1313/to-do-list/</guid>
       <description></description>
       
     </item>

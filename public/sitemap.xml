@@ -27,7 +27,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/to-do-list/</loc>
+    <loc>//localhost:1313/to-do-list/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
